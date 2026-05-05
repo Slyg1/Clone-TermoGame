@@ -2,7 +2,7 @@
 
 Recriação do popular jogo de palavras Termo feito com JavaScript, HTML e CSS puro — sem frameworks, sem dependências.
 
-![alt text](gameprint.png)
+  ![alt text](gameprint.png)
 
 
 🎮 Sobre o Projeto
