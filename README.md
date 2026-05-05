@@ -14,7 +14,10 @@ Desenvolvido como exercício de front-end, utilizando apenas as tecnologias base
 Digite uma palavra de 5 letras e pressione Enter
 As cores das letras revelam dicas:
 
-CorSignificado🟩 VerdeLetra correta no lugar certo🟨 AmareloLetra existe, mas está no lugar errado⬜ CinzaLetra não está na palavra
+Cor         Significado
+🟩 Verde    Letra correta no lugar certo
+🟨 Amarelo  Letra existe, mas está no lugar errado
+⬜ Cinza    Letra não está na palavra
 
 Você tem 6 tentativas para acertar a palavra!
 
